@@ -6,12 +6,14 @@ Username : root
 password : 
 ====================
 
-1.Goto htdocs in xampp 
-2.Create dir "test"
-3.Copy to SourceCode to "htdocs/test"
-4.Goto "localhost/phpmyadmin"
-5.create database "testDB" charset utf8
-6.import users.sql
+## Setup
+
+- Goto htdocs in xampp 
+- Create dir "test"
+- Copy to SourceCode to "htdocs/test"
+- Goto "localhost/phpmyadmin"
+- create database "testDB" charset utf8
+- import users.sql
 
 ## Features
 
