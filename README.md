@@ -1,10 +1,11 @@
 # testClassroomXamp
 
-====================
-Database : testDB
-Username : root
-password : 
-====================
+## xampp 
+
+- Database : testDB
+- Username : root
+- password : 
+
 
 ## Setup
 
